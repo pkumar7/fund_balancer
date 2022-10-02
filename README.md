@@ -13,4 +13,4 @@ Limitations:
 2. The program supports two threads in parallel currently. 
 
 Thoughts:
-All the steps involved in process the user Allotment is sequential in nature, so running one whole process in a single thread might be a good idea.
+All the steps involved in processing the user Allotment is sequential in nature, so running one whole process in a single thread might be a good idea.
